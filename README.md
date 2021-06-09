@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Zehao Liu,lived in China for 25 years,located in Singapore now.🔭
+
+I Use Python, Go. I am working on Shopee.✨
+
+I'm concerned about Computer Vision, Golang backend and Openstask.🌱
+
+Also share life experience, brush leetcode, read books, and learn English experience in the Internet.⚡
+
+You can find me on [blog](liuzehao.github.io) and [chinese blog](https://blog.csdn.net/liu506039293).📫
