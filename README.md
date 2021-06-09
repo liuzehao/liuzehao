@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 Hi, I'm Zehao Liu,lived in China for 25 years,located in Singapore now.🔭
 
-I Use Python, Go. I am working on Shopee.✨
+I use Python, Go. I am working on Shopee.✨
 
 I'm concerned about Computer Vision, Golang backend and Openstask.🌱
 
