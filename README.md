@@ -6,4 +6,5 @@ I'm concerned about Computer Vision, Golang backend and Openstask.🌱
 
 Also share life experience, leetcode skill, read books, and learn English experience in the Internet.⚡
 
-You can find me on [blog](https://liuzehao.github.io) and [chinese blog](https://blog.csdn.net/liu506039293).📫
+You can find me on [blog](https://mentalflow.pages.dev) and [csdn blog](https://blog.csdn.net/liu506039293).📫
+
