@@ -1,4 +1,4 @@
-<img  alt="Coding" width="400"
+<img  alt="Coding" width="800"
 src="https://cdn.jsdelivr.net/gh/liuzehao/PictureManager/lib/Screenshot 2024-01-10 at 12.27.26 AM.png">
 
 
